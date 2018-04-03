@@ -1,0 +1,6 @@
+echo "# Darklord" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/darklord777777/Darklord.git
+git push -u origin master
